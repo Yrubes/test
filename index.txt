@@ -2,6 +2,8 @@ Hello World !
 
 Welcome to develop branch !
 
+New change from develop !
+
 Welcome to feature branch !
 
 Welcome to feature branch merge !
