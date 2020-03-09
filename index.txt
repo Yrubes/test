@@ -5,3 +5,5 @@ Welcome to develop branch !
 Welcome to feature branch !
 
 Welcome to feature branch merge !
+
+Welcome to feature2 branch !
